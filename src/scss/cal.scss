@@ -1,0 +1,45 @@
+.cont{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // min-height: 80vh;
+    padding:70px;
+    background-image: url(../Components/Assets/cal.jpg);
+ background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 0;
+    margin: 0 auto;
+    background-color: darkblue;
+    width: fit-content;
+}
+.equal{
+    
+color: rgb(4, 95, 80);
+
+}
+.input{
+    background: transparent;
+    border: none ;
+}
+.card{
+
+    Input{
+        font-weight: bold;
+        padding: 5px;
+        font-size: 20px;
+    border: transparent;
+    background-color: #a2d2ff;
+}
+}
+Input:hover{
+    background-color: #219ebc;
+    // font-size: 30px;
+    // overflow: hidden;
+    
+}
